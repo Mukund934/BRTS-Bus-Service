@@ -37,7 +37,7 @@ A modern and intuitive bus service system designed specifically for our college 
 
 ## 🚀 Demo
 
-[View Live Demo](#) *(Demo link coming soon)*
+[View Live Demo](https://brts-bus-tracking.vercel.app/) 
 
 ## 🛠️ Installation
 
