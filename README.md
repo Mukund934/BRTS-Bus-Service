@@ -1,7 +1,7 @@
 
 # BRT Bus Service System
 
-![Preview Image](./preview.png)
+![preview.png](./preview.png)
 
 A modern and intuitive bus service system designed specifically for our college community. This project offers real-time bus tracking, comprehensive fare details, and timetables—all through a beautifully designed interface. Developed as a minor project in my 3rd semester of the 2nd year, it continues to evolve based on user feedback.
 
